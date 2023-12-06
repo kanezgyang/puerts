@@ -63,6 +63,9 @@ void Update()
 
 * vscode下打开setting，搜索auto attach，将Debug>Node:Auto Attach设置为“on”（高版本vscode没有该选项，可以不设置）。或是自行创建vscode debug的launch.json，将其端口号配置改为你上面设置的端口号。
 
+  ![选择node.js attach](https://github.com/Tencent/puerts/assets/32905484/d5e50357-49b4-414f-8dab-69131f1b5b01)
+
+
 
 * 打开“ProjectSetting/Player”页面，把“Run In Background”勾选上
 
